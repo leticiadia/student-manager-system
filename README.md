@@ -1,4 +1,4 @@
-# Database PHP
+# Student Manager System 
 
 ## Description
 <p>Project made in PHP with the objective of build a student manager system</p>
