@@ -26,5 +26,5 @@
 ## 👩‍💻 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Author 
-<p>Developed by Leticia Dias 👩‍🚀💜</p>
+## 👩‍🚀 Author 
+<p>Developed with 💜 by Leticia Dias</p>
